@@ -123,7 +123,7 @@ Ephinea Guides:
     <td>
       <a href="https://www.youtube.com/@BenjaminWeeb">Showcase</a>
     </td>
-    <td></td>
+    <td> <a href="https://gitlab.com/dashgl">Kion/DashGL Utilities</a> </td>
   </tr>
   <tr>
     <td>Pocket PSO</td>
@@ -150,7 +150,9 @@ Ephinea Guides:
     <td>
       <a href="https://www.youtube.com/watch?v=hqlFFS15Dg8">showcase</a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://gitlab.com/dashgl/unity"> DashUnityProject </a>
+    </td>
   </tr>
   <tr>
     <td><a href="http://psobb2.com">PSOBB2</a> <br/> (<a href="https://github.com/HelloKitty">Glader</a>, et al.)</td>
@@ -230,6 +232,19 @@ Ephinea Guides:
       <a href="https://github.com/gladmmo">GladMMO Github</a>
     </td>
   </tr>
+	
+  <tr>
+    <td>Project STAR <br/> by <a href="https://twitter.com/AexcessT">aeXcess Team</a> </td>
+    <td>2019</td>
+    <td>Stale since 2020</td>
+    <td>
+      <a href="https://www.reddit.com/r/Unity3D/comments/ex5oew/action_packed_combat_in_procedurally_generated/">City Combat Demo</a>
+    </td>
+    <td>
+    </td>
+  </tr>
+	
+	https://www.reddit.com/r/Unity3D/comments/ex5oew/action_packed_combat_in_procedurally_generated/
   <tr>
     <td>
       <a href="https://www.playprojectpioneer.com/">Project Pioneer</a> <br/>
