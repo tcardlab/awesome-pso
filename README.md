@@ -172,7 +172,7 @@ Ephinea Guides:
    <tr>
     <td>VRChat PSO</td>
     <td>pre-2019</td>
-    <td>unknown</td>
+    <td>Unknown</td>
     <td>
       <a href="https://www.youtube.com/watch?v=h0kkl6Ja2ZE">Phantasy Star Online in VR!?</a>
     </td>
@@ -184,6 +184,16 @@ Ephinea Guides:
     <td>Active</td>
     <td>
       <a href="https://www.youtube.com/watch?v=QLdARRzJaTo">Phantasy star and dothack dev</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> PSOQuest-VR <br/> by <a href="https://github.com/foxeh89">Foxeh</a> </td>
+    <td>2022</td>
+    <td>Unknown</td>
+    <td>
+      <a href="https://cdn.discordapp.com/attachments/1020720102288670781/1030287153785229312/com.Foxeh.VRFramework2-20221013-201033.mp4">Weapons Demo</a>,
+      <a href="https://cdn.discordapp.com/attachments/1020720102288670781/1022373404239724544/PSOQuestTest1.mp4">Forest Demo</a>
     </td>
     <td></td>
   </tr>
