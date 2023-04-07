@@ -243,8 +243,6 @@ Ephinea Guides:
     <td>
     </td>
   </tr>
-	
-	https://www.reddit.com/r/Unity3D/comments/ex5oew/action_packed_combat_in_procedurally_generated/
   <tr>
     <td>
       <a href="https://www.playprojectpioneer.com/">Project Pioneer</a> <br/>
