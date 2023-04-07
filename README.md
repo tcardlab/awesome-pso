@@ -1,4 +1,4 @@
-# Awesome PSO (Phantasy Star Online)
+# Awesome PSO (Phantasy Star Online) [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Collection of PSO ep1&2 related assets, projects, and servers.
 
 > I have no association to any application or distributable linked here (aside from the SVG Sigil). <br/>
