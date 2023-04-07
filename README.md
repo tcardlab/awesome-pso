@@ -273,11 +273,21 @@ Ephinea Guides:
 - [eleriaqueen/pso-simple-section-id-calculator: A simple PSO Section ID calculator (github.com)](https://github.com/eleriaqueen/pso-simple-section-id-calculator)
 - [Snippets · DashGL / DC - Ikaruga · GitLab](https://gitlab.com/dashgl/ikaruga/-/snippets)
 - [DashGL / Dash Model Format · GitLab](https://gitlab.com/dashgl/format)
+	
+- PSO Rust
+  - https://github.com/BygoneWorlds/idolapsoserv
+  - https://github.com/BygoneWorlds/telepipe
+	
+- PSO Kotlin
+  - https://github.com/DaanVandenBosch/phantasmal-world
+  - [model viewer](https://www.phantasmal.world/#/viewer/)
 
 </details>
 
 <details>
 <summary><h2> Assets </h2></summary>
+	
+[Quest files](https://github.com/b0n3zx/PSOquest)
 
 3D Models:
 - [Online viewer and exporter](https://gitlab.com/dashgl/psov2)
