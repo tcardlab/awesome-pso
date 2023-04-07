@@ -1,30 +1,96 @@
 # Awesome PSO (Phantasy Star Online)
 Collection of PSO ep1&2 related assets, projects, and servers.
 
-<details>
+> I have no association to any application or distributable linked here (aside from the SVG Sigil). <br/>
+> Thus, I cannot vouch for the validity of external downloads or applications.
+> Please do your own research and stay safe.
+
+<details open>
 <summary><h2> Games and Servers: </h2></summary>
 
-Game Cube (may need an [Emulator](https://dolphin-emu.org/)):
+<details open>
+<summary><h4> BlueBurst Servers: </h4></summary>
 
-- [Internet Archive](https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/#:~:text=Phantasy%20Star%20Online%20Episode%20I%20%26%20II)
-- [Schtserv Network - PSO GC Connection guide](http://www.schtserv.com/forums/app.php/pso-gc-connection-guide)
-
-
-BlueBurst:
-- [schtserv](https://psobb.schtserv.com/startguide/)
 - [Ephinea](https://ephinea.pioneer2.net/)
 - [Ultima](https://www.phantasystaronline.net/)
+- [schtserv](https://psobb.schtserv.com/startguide/)
 - [Eden](http://edenserv.net/download)
 
+</details>
+	
+<details>
+<summary><h4> Game Cube: </h4></summary>
 
-Dreamcast:
-- [Phantasy Star Online : Dreamcast Live](https://dreamcastlive.net/phantasy-star-online/)
-- [Sylverant](https://sylverant.net/)
-- [schtserv](http://www.schtserv.com/forums/app.php/downloads#:~:text=PSO%20Dreamcast%20V1%20and%20V2)
+May need a [GameCube Emulator](https://dolphin-emu.org/)
+	
+- [ISO - Internet Archive](https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/#:~:text=Phantasy%20Star%20Online%20Episode%20I%20%26%20II)
+- [Schtserv Network - PSO GC Connection guide](http://www.schtserv.com/forums/app.php/pso-gc-connection-guide)
+
 </details>
 
 <details>
-<summary><h2> PSO Dev </h2></summary>
+<summary><h4> Dreamcast: </h4></summary>
+
+May need a [DreamCast Emulator](https://redream.io/)
+
+- [GDI - Internet Archive](https://archive.org/download/ef_SEGA_GDI_USA/Dreamcast%20GDI%20USA/#:~:text=Phantasy%20Star%20Online)
+- [Phantasy Star Online : Dreamcast Live](https://dreamcastlive.net/phantasy-star-online/)
+- [Sylverant](https://sylverant.net/)
+- [schtserv](http://www.schtserv.com/forums/app.php/downloads#:~:text=PSO%20Dreamcast%20V1%20and%20V2)
+
+</details>
+
+<details>
+<summary><h4> Mobile: </h4></summary>
+	
+<!--
+reicast is dead
+  https://github.com/skmp/reicast-emulator
+
+  [(1) With the new Reicast-FH updates on Android, you can play the DC version online on the go. : PSO (reddit.com)](https://www.reddit.com/r/PSO/comments/9kq3vk/with_the_new_reicastfh_updates_on_android_you_can/)
+
+  https://emulationking.com/reicast/
+
+  [(183) Phantasy Star Online v1 | NVIDIA SHIELD Android TV (2015) | Reicast Emulator [1080p] | Dreamcast - YouTube](https://www.youtube.com/watch?v=B8O5sHGkahk)
+-->
+	
+I have not seen anyone run PSO on their phone recently, but should be possible in theory.
+
+Dolphin can run on Android:
+	
+  - [Video](https://www.youtube.com/watch?v=E61i0pVlZjo)
+  - [Google Play Store](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu)
+  - [Dolphin Download Page](https://dolphin-emu.org/download/)
+  - See GameCube section to get ISO if necessary
+	
+Redream can run on Android:
+	
+  - [Video](https://www.youtube.com/watch?v=2_Sf_WXpoO0)
+  - [Google Play Store](https://play.google.com/store/apps/details?id=io.recompiled.redream)
+  - [Redream Download Page](https://redream.io/download)
+  - See DreamCast section to get GDI if necessary
+
+RetroArch can run on Android and supports both emulators mentioned above:
+	
+  - [Video](https://www.youtube.com/watch?v=9JYn-Dpcdk4)
+  - [Google Play Store](https://play.google.com/store/apps/details?id=com.retroarch)
+  - [RetroArch Home](https://www.retroarch.com/index.php)
+
+</details>
+	
+<details>
+<summary><h4> SteamDeck: </h4></summary>
+
+Ephinea Guides:
+  - https://www.reddit.com/r/SteamDeck/comments/w9q6ub/installing_and_running_pso_bb_ephinea/
+  - https://docs.google.com/document/d/1I4AibIhq5M85wByePQ3wg8bK5s6DsOl9KQRjRkW-Oas/edit
+
+</details>
+
+</details>
+
+<details>
+<summary><h2> PSO Projects </h2></summary>
 
 <table>
   <tr>
@@ -39,13 +105,16 @@ Dreamcast:
     <th>Resources</th>
   </tr>
   <tr>
-    <td>PSO Remake <br/> (by Glader)</td>
+    <td>PSO Remake <br/> (by <a href="https://github.com/HelloKitty">Glader</a>)</td>
     <td>2014</td>
     <td>Superseded by PSOBB2 in 2020</td>
     <td>
       <a href="https://www.youtube.com/watch?v=iV6skAtkGrQ">PSO Unity Remake: Forest</a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/HelloKitty/GladNet3">GladNet</a>,
+      <a href="https://github.com/BoomaNation">BoomaNation</a>
+    </td>
   </tr>
   <tr>
     <td>Benjamin Collins <br/> Version</td>
@@ -84,7 +153,7 @@ Dreamcast:
     <td></td>
   </tr>
   <tr>
-    <td>PSOBB2 <br/> (Glader, et al.)</td>
+    <td><a href="http://psobb2.com">PSOBB2</a> <br/> (<a href="https://github.com/HelloKitty">Glader</a>, et al.)</td>
     <td>2020</td>
     <td>Indefinite Hiatus</td>
     <td>
@@ -107,18 +176,29 @@ Dreamcast:
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td>Team Shonochan <br/> Version</td>
+    <td>2021</td>
+    <td>Active</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=QLdARRzJaTo">Phantasy star and dothack dev</a>
+    </td>
+    <td></td>
+  </tr>
   
-  <!--<tr>
+<!--
+  <tr>
     <td>name</td>
     <td>year</td>
     <td>status</td>
     <td>vid</td>
     <td>resources</td>
-  </tr>-->
-  <!-- <a href=""></a> -->
-</table>
+  </tr>
+  <a href=""></a>
 
+</table>
 <table>
+-->
    <tr>
     <th colspan="5">  <h3> Spin-Offs </h3>  </th>
   </tr>
@@ -140,11 +220,15 @@ Dreamcast:
     <td></td>
   </tr>
   <tr>
-    <td>VRGuardians</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>GladMMO <br/> (Superset of PSOBB2)</td>
+    <td>pre-2019</td>
+    <td>Stale since 2020</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=F9x97CSsFso">2019 Unification Announcement</a>
+    </td>
+    <td>
+      <a href="https://github.com/gladmmo">GladMMO Github</a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -207,44 +291,49 @@ Texture Packs
 ### Shaders et al
 - [Luminati-nerd-stuff/PSO-RayTracing](https://github.com/Luminati-nerd-stuff/PSO-RayTracing)
 
-</details>
-
-<details>
-<summary><h2> notable forums </h2></summary>
-
-- [PSO-World.com - Phantasy Star Online](https://www.pso-world.com/links-pso.php)
-- [PSO Palace (sylverant.net)](https://psopalace.sylverant.net/frameset.html)
-- [Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/)
-- [Schtserv Network - Index page](https://schtserv.com/forums/index.php)
-</details>
-
-## Interesting Reads:
-- [How do area maps work (i.e. how does QEdit visualize areas)?](https://www.pioneer2.net/community/threads/how-do-area-maps-work-i-e-how-does-qedit-visualize-areas.4415/)
-- [Phantasy Star Online will never die: how the nicest fans in gaming keep a 16-year-old MMO alive | PC Gamer](https://www.pcgamer.com/phantasy-star-online-will-never-die-how-the-nicest-fans-in-gaming-keep-a-16-year-old-mmo-alive/)
-- [News/Phantasy Star Online prototype - Hidden Palace](https://hiddenpalace.org/News/Phantasy_Star_Online_prototype)
-- [Phantasy Star Online’s original director from Sonic Team talks Diablo influences, cut features, and Christmas Nights - Polygon](https://www.polygon.com/interviews/2020/8/2/21348946/phantasy-star-online-director-diablo-cut-features-christmas-nights)
-- [Phantasy Star Online devs on the story, the graphics, and the angry fans that used to call Sega - Polygon](https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans)
-- [Phantasy Star Online Episode I & II Versus Strategy Guide : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/phantasystaronlineepisodeiiiversusstrategyguide/mode/2up)
-- [Phantasy Star Online (PSO) [Beta - Dreamcast - Unseen64](https://www.unseen64.net/2008/04/11/pso-concept-beta/)
-- [(183) Phantasy Star Online commercial - YouTube](https://www.youtube.com/watch?v=rw6hosekixk)
-
-Background
-- [Phantasy Star Online - Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Online)
-- [Phantasy Star Online (Series) | Phantasy Star Wiki | Fandom](https://phantasystar.fandom.com/wiki/Phantasy_Star_Online_(Series))
-- [Phantasy Star Online Characters](https://phantasystar.fandom.com/wiki/Category:Phantasy_Star_Online_Characters)
-
-
-## Other
-- [PSO HD Remaster 360 vr video by Theanine3D](https://theanine3d.com/post/670065455257485312/pso-ep1-lobby-music-mix-interactive-vr-video) [[mirror](https://www.youtube.com/watch?v=zG1PBwSJagk)]
-- [Another approach at remastering textures using Stable Diffusion | Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/threads/another-approach-at-remastering-textures-using-stable-diffusion.25517/)
-
-
-[(183) Phantasy Star Online v1 | NVIDIA SHIELD Android TV (2015) | Reicast Emulator [1080p] | Dreamcast - YouTube](https://www.youtube.com/watch?v=B8O5sHGkahk)
-[(1) With the new Reicast-FH updates on Android, you can play the DC version online on the go. : PSO (reddit.com)](https://www.reddit.com/r/PSO/comments/9kq3vk/with_the_new_reicastfh_updates_on_android_you_can/)
-
+	
  [Josh Markham - Phantasy Star Environment (artstation.com)](https://joshmarkham.artstation.com/projects/18OE8X)
  never made public...
  by Josh Markham
 World Art Lead at Bungie
+</details>
+
+<details>
+<summary><h2> Forums </h2></summary>
+	
+- [PSO-World.com](https://www.pso-world.com/forums/forumdisplay.php?7-Phantasy-Star-Online)
+- [Pioneer 2](https://www.pioneer2.net/community/)
+- [Schtserv Network](https://schtserv.com/forums/index.php)
+</details>
 
 
+<details>
+<summary><h2> Curated Info Sites </h2></summary>
+
+- [PSO-World](https://www.pso-world.com/links-pso.php)
+- [PSO Palace](https://psopalace.sylverant.net/frameset.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Online)
+- Fandom
+  - [Overview](https://phantasystar.fandom.com/wiki/Phantasy_Star_Online_(Series))
+  - [Characters](https://phantasystar.fandom.com/wiki/Category:Phantasy_Star_Online_Characters)
+</details>
+
+
+<details>
+<summary><h2> Interesting Reads & Media </h2></summary>
+
+- [PSO will never die: how the nicest fans in gaming keep a 16-year-old MMO alive - PC Gamer](https://www.pcgamer.com/phantasy-star-online-will-never-die-how-the-nicest-fans-in-gaming-keep-a-16-year-old-mmo-alive/)
+- [PSO’s original director from Sonic Team talks Diablo influences, cut features, and Christmas Nights - Polygon](https://www.polygon.com/interviews/2020/8/2/21348946/phantasy-star-online-director-diablo-cut-features-christmas-nights)
+- [PSO devs on the story, the graphics, and the angry fans that used to call Sega - Polygon](https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans)
+- [PSO EpI&II Versus Strategy Guide - Internet Archive](https://archive.org/details/phantasystaronlineepisodeiiiversusstrategyguide/mode/2up)
+- [PSO prototype - Hidden Palace](https://hiddenpalace.org/News/Phantasy_Star_Online_prototype)
+- [PSO - Unseen64](https://www.unseen64.net/2008/04/11/pso-concept-beta/)
+- [PSO commercial - YouTube](https://www.youtube.com/watch?v=rw6hosekixk)
+</details>
+
+<details>
+<summary><h2> Other </h2></summary>
+
+- [PSO Remastered 360VR video by Theanine3D](https://theanine3d.com/post/670065455257485312/pso-ep1-lobby-music-mix-interactive-vr-video) [[mirror](https://www.youtube.com/watch?v=zG1PBwSJagk)]
+- [Stable Diffusion for Remastering](https://www.pioneer2.net/community/threads/another-approach-at-remastering-textures-using-stable-diffusion.25517/)
+</details>
