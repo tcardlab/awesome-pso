@@ -1,66 +1,181 @@
 # Awesome PSO (Phantasy Star Online)
 Collection of PSO ep1&2 related assets, projects, and servers.
 
-## Games and Servers:
-Game Cube (may need [Emulator](https://dolphin-emu.org/)):
+<details>
+<summary><h2> Games and Servers: </h2></summary>
+
+Game Cube (may need an [Emulator](https://dolphin-emu.org/)):
 
 - [Internet Archive](https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/#:~:text=Phantasy%20Star%20Online%20Episode%20I%20%26%20II)
 - [Schtserv Network - PSO GC Connection guide](http://www.schtserv.com/forums/app.php/pso-gc-connection-guide)
 
 
 BlueBurst:
-- [schtserv](http://www.schtserv.com/forums/app.php/downloads#:~:text=for%20All%20Platforms-,PSO%3ABlue%20Burst,-Schtserv%20Full%20Installer) / [SCHTSERV PSO:BB](https://psobb.schtserv.com/startguide/)
+- [schtserv](https://psobb.schtserv.com/startguide/)
 - [Ephinea](https://ephinea.pioneer2.net/)
 - [Ultima](https://www.phantasystaronline.net/)
 - [Eden](http://edenserv.net/download)
+
 
 Dreamcast:
 - [Phantasy Star Online : Dreamcast Live](https://dreamcastlive.net/phantasy-star-online/)
 - [Sylverant](https://sylverant.net/)
 - [schtserv](http://www.schtserv.com/forums/app.php/downloads#:~:text=PSO%20Dreamcast%20V1%20and%20V2)
+</details>
 
+<details>
+<summary><h2> PSO Dev </h2></summary>
 
+<table>
+  <tr>
+    <th colspan="5">  <h3> Remakes & Remasters </h3>  </th>
+  </tr>
+  
+  <tr>
+    <th>Project Name</th>
+    <th>Year of Origin <br/> (approx.)</th>
+    <th>Status</th>
+    <th>Showcase</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>PSO Remake <br/> (by Glader)</td>
+    <td>2014</td>
+    <td>Superseded by PSOBB2 in 2020</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=iV6skAtkGrQ">PSO Unity Remake: Forest</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Benjamin Collins <br/> Version</td>
+    <td>2015</td>
+    <td>Dropped in 2019?</td>
+    <td>
+      <a href="https://www.youtube.com/@BenjaminWeeb">Showcase</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pocket PSO</td>
+    <td>2017</td>
+    <td>Dropped in 2017</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=NnfOs6UnclE">Pocket PSO PC/Mobile Test</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PSO Clone <br/> (by Landon Ritchie)</td>
+    <td>2017</td>
+    <td>Superseded by Reverie Star in ~2018</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=pED93N-Whz0">PSO Clone</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Andreas Scholl <br/> Version</td>
+    <td>pre-2019</td>
+    <td>Active - Low Priority</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=hqlFFS15Dg8">showcase</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PSOBB2 <br/> (Glader, et al.)</td>
+    <td>2020</td>
+    <td>Indefinite Hiatus</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=uMmck7fNjlU">announcement video 1</a>, <br/>
+      <a href="https://www.youtube.com/watch?v=ofAeXOMws1c">announcement video 2</a>
+    </td>
+    <td>
+      <a href="https://github.com/HelloKitty/PSOBB2.Client">Client</a>, <br/>
+      <a href="https://github.com/hellokitty/booma.proxy">Proxy</a>, <br/>
+      <a href="https://github.com/hellokitty/booma.server">Server</a>, <br/>
+      <a href="https://github.com/HelloKitty/PSOBB2.Content">Content</a>
+    </td>
+  </tr>
+   <tr>
+    <td>VRChat PSO</td>
+    <td>pre-2019</td>
+    <td>unknown</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=h0kkl6Ja2ZE">Phantasy Star Online in VR!?</a>
+    </td>
+    <td></td>
+  </tr>
+  
+  <!--<tr>
+    <td>name</td>
+    <td>year</td>
+    <td>status</td>
+    <td>vid</td>
+    <td>resources</td>
+  </tr>-->
+  <!-- <a href=""></a> -->
+</table>
 
-## PSO Dev
+<table>
+   <tr>
+    <th colspan="5">  <h3> Spin-Offs </h3>  </th>
+  </tr>
+  <tr>
+    <th>Project Name</th>
+    <th>Year of Origin <br/> (approx.)</th>
+    <th>Status</th>
+    <th>Showcase</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>Reverie Star <br/> (by Zorlock Studios)</td>
+    <td>2018</td>
+    <td>Dropped in 2020</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=TNfn-6KJ1GY">Reverie Star - New City Area</a>, <br/>
+      <a href="https://www.youtube.com/watch?v=Pc5hum_wnxE">Reverie Star Progress Update</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VRGuardians</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.playprojectpioneer.com/">Project Pioneer</a> <br/>
+      (by <a href="https://photondropstudio.com/">Photon Drop Studio</a>)
+    </td>
+    <td>2021</td>
+    <td>Active - seeking funding</td>
+    <td>
+      <a href="https://www.youtube.com/shorts/Dr8058UtITg">Metro-City showcase</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-Spin-Offs:
-- [https://www.playprojectpioneer.com](https://www.playprojectpioneer.com/)
-  - By [Photon Drop Studio](https://photondropstudio.com/) 
-  - VRGuardians
+<br />
 
-Remakes/remaster:
-status...
-- PSOBB2 (Glader, et al.)
-	- [client](https://github.com/HelloKitty/PSOBB2.Client), [proxy](https://github.com/hellokitty/booma.proxy), [server](https://github.com/hellokitty/booma.server), [content](https://github.com/HelloKitty/PSOBB2.Content)
-	- [announcement video 1](https://www.youtube.com/watch?v=uMmck7fNjlU)
-	- [announcement video 2](https://www.youtube.com/watch?v=ofAeXOMws1c)
-- Andreas Scholl version
-	- [showcase](https://www.youtube.com/watch?v=hqlFFS15Dg8)
-	- active non-priority
-- Benjamin Collins version 
-  -  [(181) Benjamin Collins - YouTube](https://www.youtube.com/@BenjaminWeeb)
-  - dropped
+### Utilities:
+- [eleriaqueen/pso-simple-section-id-calculator: A simple PSO Section ID calculator (github.com)](https://github.com/eleriaqueen/pso-simple-section-id-calculator)
+- [Snippets · DashGL / DC - Ikaruga · GitLab](https://gitlab.com/dashgl/ikaruga/-/snippets)
+- [DashGL / Dash Model Format · GitLab](https://gitlab.com/dashgl/format)
 
-- reveriestar by Landon Ritchie/Zorlock Studios
-  - [(183) PSO Clone - PPSO Getting wrecked by Boomas - YouTube](https://www.youtube.com/watch?v=pED93N-Whz0)
-  - [(183) Reverie Star - New City Area - YouTube](https://www.youtube.com/watch?v=TNfn-6KJ1GY)
-  - [(183) Reverie Star Progress Update - YouTube](https://www.youtube.com/watch?v=Pc5hum_wnxE)
+</details>
 
-- PSO remake glader solo:
-  - [(183) Phantasy Star Online Remake: Forest - YouTube](https://www.youtube.com/watch?v=iV6skAtkGrQ)
-
-
-- Pocket PSO
-  - [(183) Pocket PSO PC/Mobile Test (Character Creation/Lobby) - YouTube](https://www.youtube.com/watch?v=NnfOs6UnclE&t=552s)
-
-- vr chat
-  - [(183) Phantasy Star Online in VR!? I tour several areas being worked on. - YouTube](https://www.youtube.com/watch?v=h0kkl6Ja2ZE&t=1169s)
-
-## Assets
+<details>
+<summary><h2> Assets </h2></summary>
 
 3D Models:
 - [Online viewer and exporter](https://gitlab.com/dashgl/psov2)
 	- [live site](https://dashgl.gitlab.io/psov2/)
+	- [Spec Sheet](https://github.com/tcardlab/awesome-pso/releases/download/Model-Spec/Phantasy_Star_Document.pdf)
 
 [PSO Remake: Forest Monster Edition – PSO-Remake (wordpress.com)](https://psoremake.wordpress.com/2016/07/24/pso-remake-forest-monster-edition/comment-page-1/#comment-1)
 [Art - Forest | Trello](https://trello.com/b/bzv18Wy3/art-forest)
@@ -89,16 +204,19 @@ Texture Packs
 
 [PSO Title Screen (tcardlab.github.io)](https://tcardlab.github.io/pso-title-screen/sigil)
 
-## Shaders et al
+### Shaders et al
 - [Luminati-nerd-stuff/PSO-RayTracing](https://github.com/Luminati-nerd-stuff/PSO-RayTracing)
 
+</details>
 
-## notable forums
+<details>
+<summary><h2> notable forums </h2></summary>
 
-[PSO-World.com - Phantasy Star Online](https://www.pso-world.com/links-pso.php)
-[PSO Palace (sylverant.net)](https://psopalace.sylverant.net/frameset.html)
-[Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/)
-[Schtserv Network - Index page](https://schtserv.com/forums/index.php)
+- [PSO-World.com - Phantasy Star Online](https://www.pso-world.com/links-pso.php)
+- [PSO Palace (sylverant.net)](https://psopalace.sylverant.net/frameset.html)
+- [Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/)
+- [Schtserv Network - Index page](https://schtserv.com/forums/index.php)
+</details>
 
 ## Interesting Reads:
 - [How do area maps work (i.e. how does QEdit visualize areas)?](https://www.pioneer2.net/community/threads/how-do-area-maps-work-i-e-how-does-qedit-visualize-areas.4415/)
@@ -129,7 +247,4 @@ Background
  by Josh Markham
 World Art Lead at Bungie
 
-Utilities:
-- [eleriaqueen/pso-simple-section-id-calculator: A simple PSO Section ID calculator (github.com)](https://github.com/eleriaqueen/pso-simple-section-id-calculator)
-- [Snippets · DashGL / DC - Ikaruga · GitLab](https://gitlab.com/dashgl/ikaruga/-/snippets)
-- [DashGL / Dash Model Format · GitLab](https://gitlab.com/dashgl/format)
+
