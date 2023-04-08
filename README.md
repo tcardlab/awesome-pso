@@ -18,7 +18,7 @@ Collection of PSO ep1&2 related assets, projects, and servers.
 <summary><h2> Games and Servers: </h2></summary>
 
 <details open>
-<summary><h4> BlueBurst Servers: </h4></summary>
+<summary><i> BLUEBURST SERVERS: </i></summary>
 
 - [Ephinea](https://ephinea.pioneer2.net/)
 - [Ultima](https://www.phantasystaronline.net/)
@@ -29,7 +29,7 @@ Collection of PSO ep1&2 related assets, projects, and servers.
 </details>
 	
 <details>
-<summary><h4> GameCube: </h4></summary>
+<summary><i> GAMECUBE: </i></summary>
 
 May need a [GameCube Emulator](https://dolphin-emu.org/)
 	
@@ -44,7 +44,7 @@ Dolphin Status:
 </details>
 
 <details>
-<summary><h4> DreamCast: </h4></summary>
+<summary><i> DREAMCAST: </i></summary>
 
 May need a [DreamCast Emulator](https://redream.io/)
 
@@ -56,7 +56,7 @@ May need a [DreamCast Emulator](https://redream.io/)
 </details>
 
 <details>
-<summary><h4> Mobile: </h4></summary>
+<summary><i> MOBILE: </i></summary>
 	
 <!--
 reicast is dead
@@ -94,7 +94,7 @@ RetroArch can run on Android and supports both emulators mentioned above:
 </details>
 	
 <details>
-<summary><h4> SteamDeck: </h4></summary>
+<summary><i> STEAMDECK: </i></summary>
 
 Ephinea Guides:
   - https://www.reddit.com/r/SteamDeck/comments/w9q6ub/installing_and_running_pso_bb_ephinea/
@@ -404,7 +404,7 @@ Private Servers:
 <br/>
 	
 <details>
-  <summary><i> Models: </i></summary>
+  <summary><i> MODELS: </i></summary>
 
   <br/>
 
@@ -425,7 +425,7 @@ Private Servers:
 <br/>
 	
 <details>
-  <summary><i> Quests: </i></summary>
+  <summary><i> QUESTS: </i></summary>
 	
   - [GCI Quest files](https://github.com/b0n3zx/PSOquest)
   - [VMI quest files](https://www.pso-world.com/download.php?cat=Download+Quests)
@@ -434,7 +434,7 @@ Private Servers:
 <br/>
 	
 <details>
-  <summary><i> Music: </i></summary>
+  <summary><i> MUSIC: </i></summary>
 	
   - [PSO PC Music Pack Torrent](https://psopalace.sylverant.net/downloads/PSO_PC_Music_Pack.torrent)
   - [@HelloKitty's PSOBB2 Sound](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content/Sound)
@@ -443,7 +443,7 @@ Private Servers:
 <br/>
 	
 <details>
-  <summary><i> Texture Packs: </i></summary>
+  <summary><i> TEXTURE PACKS: </i></summary>
 	
   - [Echelon's skins & modifications](https://www.pioneer2.net/community/threads/echelons-skins-modifications.4357/)
   - [AshenbubsHD](https://www.nexusmods.com/phantasystaronline/mods/3)
@@ -458,7 +458,7 @@ Private Servers:
 <br/>
 	
 <details>
-  <summary><i> Shaders: </i></summary>
+  <summary><i> SHADERS: </i></summary>
 	
   - ZabaZu/mcflypg/Pascal Gilcher ReShade
     - [phantasystaronline.net Announcement](https://www.phantasystaronline.net/forum/index.php?/topic/27191-reshade-for-psobb-optional-screen-space-ray-traced-global-illumination/)
@@ -469,7 +469,7 @@ Private Servers:
 <br/>
 
 <details>
-  <summary><i> Mod Packs: </i></summary>
+  <summary><i> MOD PACKS: </i></summary>
 	
   - [Sundark's Mod Pack](https://www.phantasystaronline.net/forum/index.php?/topic/36164-sundarks-psobb-vanilla-pack/)
   - [Smokey's  Mod Pack](https://www.pioneer2.net/community/threads/smokeys-ultimate-psobb-mod-collection.10102/)
