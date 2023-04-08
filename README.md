@@ -5,6 +5,10 @@ Collection of PSO ep1&2 related assets, projects, and servers.
 > Thus, I cannot vouch for the validity of external downloads or applications.
 > Please do your own research and stay safe.
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/35203441/230694323-1a1703ea-65f9-4ea1-931a-8ab8497170fe.svg" height="300" />
+
 <details open>
 <summary><h2> Games and Servers: </h2></summary>
 
@@ -461,3 +465,15 @@ World Art Lead at Bungie
 - [PSO Remastered 360VR video by Theanine3D](https://theanine3d.com/post/670065455257485312/pso-ep1-lobby-music-mix-interactive-vr-video) [[mirror](https://www.youtube.com/watch?v=zG1PBwSJagk)]
 - [Stable Diffusion for Remastering](https://www.pioneer2.net/community/threads/another-approach-at-remastering-textures-using-stable-diffusion.25517/)
 </details>
+
+
+<!--
+![sigil](https://user-images.githubusercontent.com/35203441/230693972-9527d998-dd0a-44ec-8b00-920040db3da4.svg)
+
+![sigil](https://user-images.githubusercontent.com/35203441/230694230-171e2eb5-a177-4737-80cf-ce34495a46f8.svg)
+
+![sigil](https://user-images.githubusercontent.com/35203441/230694323-1a1703ea-65f9-4ea1-931a-8ab8497170fe.svg)
+
+<img src="https://user-images.githubusercontent.com/35203441/230694323-1a1703ea-65f9-4ea1-931a-8ab8497170fe.svg" height="300" />
+-->
+
