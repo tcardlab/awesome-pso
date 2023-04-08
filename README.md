@@ -24,6 +24,7 @@ Collection of PSO ep1&2 related assets, projects, and servers.
 - [Ultima](https://www.phantasystaronline.net/)
 - [schtserv](https://psobb.schtserv.com/startguide/)
 - [Eden](http://edenserv.net/download)
+- [Destiny](https://playpso.net/)
 
 </details>
 	
