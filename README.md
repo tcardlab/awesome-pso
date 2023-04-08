@@ -321,8 +321,8 @@ Private Servers:
 <details>
   <summary><i>STATS:</i></summary> 
 
-  - [drop chart](https://github.com/SethClydesdale/psobb-drop-charts) – PSO:bb plugin for drop chart
-  - [Map Simulator](https://github.com/aldelaro5/PSOMapRNGSimulation) – PSO:gc Map RGN simulation
+  - [drop chart](https://github.com/SethClydesdale/psobb-drop-charts) – PSO:BB plugin for drop chart
+  - [Map Simulator](https://github.com/aldelaro5/PSOMapRNGSimulation) – PSO:GC Map RGN simulation
 </details>
 
 <br/>
@@ -332,7 +332,7 @@ Private Servers:
 
   - [PSO-World Items DB](https://www.pso-world.com/items.php)
   - [PSO-World Mags](https://www.pso-world.com/sections.php?section=Mags&op=viewtopsection)
-  - [MAG database](https://github.com/SethClydesdale/psobb-mag-database) – PSO:bb plugin
+  - [MAG database](https://github.com/SethClydesdale/psobb-mag-database) – PSO:BB plugin
 </details>
 
 <br/>
@@ -343,8 +343,8 @@ Private Servers:
   - Code
     - [gamefaqs calc in various langs](https://gamefaqs.gamespot.com/dreamcast/198288-phantasy-star-online/faqs/12520) [Ruby, Py, C#, PHP, JS, C++, C]
     - [eleriaqueen/pso-simple-section-id-calculator](https://github.com/eleriaqueen/pso-simple-section-id-calculator) [ JS ]
-    - [PSOCalc](https://github.com/gar-mil/psocalc) – PSO:bb section ID calc [ JS ]
-    - [ID_generator](https://github.com/DiggsAsura/PSO_Section_ID_generator) – PSO:gc section ID calc [ Rust ]
+    - [PSOCalc](https://github.com/gar-mil/psocalc) – PSO:BB section ID calc [ JS ]
+    - [ID_generator](https://github.com/DiggsAsura/PSO_Section_ID_generator) – PSO:GC section ID calc [ Rust ]
     - [secid-calc](https://github.com/TimBeard/secid-calculator) – PSO section ID calc [ Vue.js ]
   - App
     - [PSO-World Calc](http://www.pso-world.com/secid_BB.php)
@@ -378,7 +378,7 @@ Private Servers:
     
   - [pso-highres-ui](https://github.com/eleriaqueen/pso-highres-ui) – highres ui for Dolphin emulator
   - [highres-dreamcast-ui](https://github.com/eleriaqueen/pso-highres-dreamcube-ui) – highres Dreamcast ui for Dolphin emulator
-  - [Custom-HUD](https://github.com/izumidaye/psobb-custom-HUD) – PSO:bb custom hud plugin
+  - [Custom-HUD](https://github.com/izumidaye/psobb-custom-HUD) – PSO:BB custom hud plugin
   </details><br>  
 	
 
