@@ -399,6 +399,7 @@ Private Servers:
 <details>
   <summary><i> FONTS: </i></summary>
 
+  - [Archived psobb.com Font Source](http://archives.dcemulation.org/www.psobb.com/www.psobb.com/downloads/fontpack.html)
   - [Fringes of Algo](http://www.psalgo.com/boards/phantasy-star-online-fonts-vd244.html)  (I used PSO font from here)
   - [font2s/pso_test_regular](https://font2s.com/fonts/63345/pso_test_regular.html#.YysVlexKjOR)
     - [freefontsdownload/free-pso-test-regular-font](https://freefontsdownload.net/free-pso-test-regular-font-125365.htm)  (prob same as prior)
