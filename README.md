@@ -102,6 +102,7 @@ Ephinea Guides:
 
 </details>
 
+<br/>
 </details>
 
 <details>
@@ -285,65 +286,83 @@ Ephinea Guides:
 
 <details>
 <summary><h2> Utilities </h2></summary>
+<br/>
+<details>
+  <summary><i>SERVERS, EMULATORS, & DEV-SUITES:</i></summary>
 
-- [eleriaqueen/pso-simple-section-id-calculator: A simple PSO Section ID calculator (github.com)](https://github.com/eleriaqueen/pso-simple-section-id-calculator)
-- [Snippets · DashGL / DC - Ikaruga · GitLab](https://gitlab.com/dashgl/ikaruga/-/snippets)
-- [DashGL / Dash Model Format · GitLab](https://gitlab.com/dashgl/format)
-	
-- PSO Rust
-  - https://github.com/BygoneWorlds/idolapsoserv
-  - https://github.com/BygoneWorlds/telepipe
-	
-- PSO Kotlin
-  - https://github.com/DaanVandenBosch/phantasmal-world
-  - [model viewer](https://www.phantasmal.world/#/viewer/)
-	
-	
-
-
-  <details style="display: flex; flex-direction: row">
-  <summary><i>SERVERS, EMULATORS, ET AL:</i></summary>
-  
-    
   - [NewServe](https://github.com/fuzziqersoftware/newserv) – PSO server/proxy
-  - Booma : ([proxy](https://github.com/HelloKitty/Booma.Proxy) | [client](https://github.com/HelloKitty/PSOBB2.Client) | [server](https://github.com/HelloKitty/Booma.Server)) – PSO:bb emulation suite
-  - PSO:BB2 : ([Library](https://github.com/kanon411/PSOBB2.Library) | [content](HelloKitty/PSOBB2.Content) | [Client](https://github.com/HelloKitty/PSOBB2.Client)) – PSO:bb remake in unity
-  - [Telepipe](https://github.com/BygoneWorlds/telepipe) – PSO on Dolphin Emulator 
-  - [Phantasmal](https://github.com/DaanVandenBosch/phantasmal-world) – web app, utils, and WIP  server
-  </details><br>
+  - DashGL Suite
+    - [Snippets - Ikaruga](https://gitlab.com/dashgl/ikaruga/-/snippets)
+    - [DashGL Model Format](https://gitlab.com/dashgl/format)
+    - [DashUnityProject](https://gitlab.com/dashgl/unity)
+    - [Asset Lib & Exporter](https://gitlab.com/dashgl/psov2)
+  - Glader Dev Suite
+    - [Booma](https://github.com/BoomaNation) : ([Library](https://github.com/BoomaNation/Booma.Library) | [Proxy](https://github.com/HelloKitty/Booma.Proxy) | [Client](https://github.com/HelloKitty/PSOBB2.Client) | [Server](https://github.com/HelloKitty/Booma.Server)) – PSO:BB Emulation Suite
+    - PSO:BB2 : ([Library](https://github.com/kanon411/PSOBB2.Library) | [Content](https://github.com/HelloKitty/PSOBB2.Content) | [Client](https://github.com/HelloKitty/PSOBB2.Client) | [Server](https://github.com/gladmmo)) – PSO:BB Remake in Unity
+  - PSO Kotlin
+    - [phantasmal-world](https://github.com/DaanVandenBosch/phantasmal-world) – PSO Dev-Suite (web app, utils, and WIP  server)
+  - PSO Rust
+    - [idolapsoserv](https://github.com/BygoneWorlds/idolapsoserv) – PSO Server
+    - [Telepipe](https://github.com/BygoneWorlds/telepipe) – PSO on Dolphin Emulator  
+
+</details>
   
-  <details style="display: flex; flex-direction: row">
-  <summary><i>CALC, STAT, & Utils:</i></summary>
+<br>
   
-  - [PSOCalc](https://github.com/gar-mil/psocalc) – PSO:bb section ID calc [ js ]
-  - [ID_generator](https://github.com/DiggsAsura/PSO_Section_ID_generator) – PSO:gc section ID calc [ rust ]
-  - [secid-calc](https://github.com/TimBeard/secid-calculator) – PSO section ID calc [ Vue.js ]
+<details>
+  <summary><i>STATS:</i></summary> 
+
+  - [drop chart](https://github.com/SethClydesdale/psobb-drop-charts) – PSO:bb plugin for drop chart
+  - [Map Simulator](https://github.com/aldelaro5/PSOMapRNGSimulation) – PSO:gc Map RGN simulation
+</details>
+
+<br/>
+	
+<details>
+  <summary><i> ITEM DB: </i></summary>
+
+  - [PSO-World Items DB](https://www.pso-world.com/items.php)
+  - [PSO-World Mags](https://www.pso-world.com/sections.php?section=Mags&op=viewtopsection)
   - [MAG database](https://github.com/SethClydesdale/psobb-mag-database) – PSO:bb plugin
+</details>
+
+<br/>
+
+<details>
+  <summary><i> SECTION-ID CALCULATOR: </i></summary>
+
+  - Code
+    - [gamefaqs calc in various langs](https://gamefaqs.gamespot.com/dreamcast/198288-phantasy-star-online/faqs/12520) [Ruby, Py, C#, PHP, JS, C++, C]
+    - [eleriaqueen/pso-simple-section-id-calculator](https://github.com/eleriaqueen/pso-simple-section-id-calculator) [ JS ]
+    - [PSOCalc](https://github.com/gar-mil/psocalc) – PSO:bb section ID calc [ JS ]
+    - [ID_generator](https://github.com/DiggsAsura/PSO_Section_ID_generator) – PSO:gc section ID calc [ Rust ]
+    - [secid-calc](https://github.com/TimBeard/secid-calculator) – PSO section ID calc [ Vue.js ]
+  - App
+    - [PSO-World Calc](http://www.pso-world.com/secid_BB.php)
+    - [Solybum Calc](https://www.phantasystaronline.net/forum/index.php?/tool-box/calculators/section-id/)
+  - Reference
+    - [Pioneer2 Ref](https://wiki.pioneer2.net/w/Section_IDs)
+    - [PSO Fandom Ref](https://pso.fandom.com/wiki/Section_ID)
+    - [PhantasyStar Fandom Ref](https://phantasystar.fandom.com/wiki/Section_ID)
+    - [PSO-World Articles](https://www.pso-world.com/sections.php?op=listarticles&secid=19)
+</details>
+
+<br/>
+
+<details>
+  <summary><i> MAG CALCULATOR: </i></summary>
+
   - [MAG Calc](https://github.com/Jimaine/PsoMagCalculator) – PSO mag calculator
   - [MAG AI](https://github.com/Lemonilla/MagAi) – Generate Mag Feeding plan
   - [MAG Feeder](https://github.com/ariajanke/mag-feeder) – Mag Feeder Tool for PSOBB
-  – [drop chart](https://github.com/SethClydesdale/psobb-drop-charts) – PSO:bb plugin for drop chart
-  - [Map Simulator](https://github.com/aldelaro5/PSOMapRNGSimulation) – PSO:gc Map RGN simulation
-  </details><br>
-	
+</details>
 
-  - https://www.pso-world.com/items.php
-  
-	
-  - https://pso.fandom.com/wiki/Section_ID
-  - https://phantasystar.fandom.com/wiki/Section_ID
-  - https://wiki.pioneer2.net/w/Section_IDs
-  - https://gamefaqs.gamespot.com/dreamcast/198288-phantasy-star-online/faqs/12520
-  - http://www.pso-world.com/secid_BB.php
-  - https://www.phantasystaronline.net/forum/index.php?/tool-box/calculators/section-id/
-  - https://www.pso-world.com/sections.php?op=listarticles&secid=19
-
+<br/>
 </details>
 
 <details>
 <summary><h2> Assets </h2></summary>
-	
-	
+
   <details style="display: flex; flex-direction: row">
   <summary><i>AESTHETICS:</i></summary>
     
@@ -383,6 +402,8 @@ Ephinea Guides:
     - [fontstruct/phantasy_star_online](https://fontstruct.com/fontstructions/show/253199/phantasy_star_online)  (includes punctuation)
     - [fontstruct/phantasy_star_online_cyr_ver_1](https://fontstruct.com/fontstructions/show/253531/phantasy_star_online_cyr_ver_1)  (includes punctuation)
 </details>
+
+[model viewer](https://www.phantasmal.world/#/viewer/)
 
 https://github.com/tcardlab/pso-title-screen/
 	
