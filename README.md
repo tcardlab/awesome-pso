@@ -511,7 +511,10 @@ World Art Lead at Bungie
 	
 - [PSO-World.com](https://www.pso-world.com/forums/forumdisplay.php?7-Phantasy-Star-Online)
 - [Pioneer 2](https://www.pioneer2.net/community/)
-- [Schtserv Network](https://schtserv.com/forums/index.php)
+- [Ultima Forum](https://www.phantasystaronline.net/forum/)
+- [Schtserv Forum](https://schtserv.com/forums/index.php)
+- [Eden Forum](http://forum.edenserv.net/)
+- [Destiny Forum](https://playpso.net/forums/)
 </details>
 
 
