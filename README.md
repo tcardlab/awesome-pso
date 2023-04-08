@@ -297,7 +297,9 @@ Ephinea Guides:
 <details>
 <summary><h2> Assets </h2></summary>
 	
-[Quest files](https://github.com/b0n3zx/PSOquest)
+[GCI Quest files](https://github.com/b0n3zx/PSOquest)
+
+[VMI quest files](https://www.pso-world.com/download.php?cat=Download+Quests)
 
 3D Models:
 - [Online viewer and exporter](https://gitlab.com/dashgl/psov2)
