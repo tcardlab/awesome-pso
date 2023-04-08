@@ -319,7 +319,18 @@ Ephinea Guides:
   – [drop chart](https://github.com/SethClydesdale/psobb-drop-charts) – PSO:bb plugin for drop chart
   - [Map Simulator](https://github.com/aldelaro5/PSOMapRNGSimulation) – PSO:gc Map RGN simulation
   </details><br>
+	
+
+  - https://www.pso-world.com/items.php
   
+	
+  - https://pso.fandom.com/wiki/Section_ID
+  - https://phantasystar.fandom.com/wiki/Section_ID
+  - https://wiki.pioneer2.net/w/Section_IDs
+  - https://gamefaqs.gamespot.com/dreamcast/198288-phantasy-star-online/faqs/12520
+  - http://www.pso-world.com/secid_BB.php
+  - https://www.phantasystaronline.net/forum/index.php?/tool-box/calculators/section-id/
+  - https://www.pso-world.com/sections.php?op=listarticles&secid=19
 
 </details>
 
@@ -368,6 +379,10 @@ Ephinea Guides:
 </details>
 
 https://github.com/tcardlab/pso-title-screen/
+	
+https://github.com/eleriaqueen/pso-highres-ui
+	
+https://github.com/eleriaqueen/pso-highres-hud-font
 	
 [GCI Quest files](https://github.com/b0n3zx/PSOquest)
 
@@ -525,7 +540,8 @@ World Art Lead at Bungie
 - [PSO Palace](https://psopalace.sylverant.net/frameset.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Online)
 - Fandom
-  - [Overview](https://phantasystar.fandom.com/wiki/Phantasy_Star_Online_(Series))
+  - [PSO - Fandom](https://pso.fandom.com/wiki/Phantasy_Star_Online_Wiki)
+  - [Phantasy Star - Fandom](https://phantasystar.fandom.com/wiki/Phantasy_Star_Online_(Series))
   - [Characters](https://phantasystar.fandom.com/wiki/Category:Phantasy_Star_Online_Characters)
 </details>
 
@@ -540,6 +556,8 @@ World Art Lead at Bungie
 - [PSO prototype - Hidden Palace](https://hiddenpalace.org/News/Phantasy_Star_Online_prototype)
 - [PSO - Unseen64](https://www.unseen64.net/2008/04/11/pso-concept-beta/)
 - [PSO commercial - YouTube](https://www.youtube.com/watch?v=rw6hosekixk)
+- [PSO DreamCast- gamefaqs](https://gamefaqs.gamespot.com/dreamcast/198288-phantasy-star-online/faqs)
+- [PSO GameCube - gamefaqs](https://gamefaqs.gamespot.com/gamecube/516243-phantasy-star-online-episode-i-and-ii/faqs)
 </details>
 
 <details>
