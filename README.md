@@ -105,7 +105,7 @@ Ephinea Guides:
 </details>
 
 <details>
-<summary><h2> PSO Projects </h2></summary>
+<summary><h2> PSO Game Dev </h2></summary>
 
 <table>
   <tr>
@@ -281,10 +281,11 @@ Ephinea Guides:
     <td></td>
   </tr>
 </table>
+</details>
 
-<br />
+<details>
+<summary><h2> Utilities </h2></summary>
 
-### Utilities:
 - [eleriaqueen/pso-simple-section-id-calculator: A simple PSO Section ID calculator (github.com)](https://github.com/eleriaqueen/pso-simple-section-id-calculator)
 - [Snippets · DashGL / DC - Ikaruga · GitLab](https://gitlab.com/dashgl/ikaruga/-/snippets)
 - [DashGL / Dash Model Format · GitLab](https://gitlab.com/dashgl/format)
