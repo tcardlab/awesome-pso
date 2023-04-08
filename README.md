@@ -349,6 +349,7 @@ Private Servers:
   - App
     - [PSO-World Calc](http://www.pso-world.com/secid_BB.php)
     - [Solybum Calc](https://www.phantasystaronline.net/forum/index.php?/tool-box/calculators/section-id/)
+    - [Eleriaqueen Calc](https://eleriaqueen.github.io/pso-simple-section-id-calculator/)
   - Reference
     - [Pioneer2 Ref](https://wiki.pioneer2.net/w/Section_IDs)
     - [PSO Fandom Ref](https://pso.fandom.com/wiki/Section_ID)
@@ -372,98 +373,102 @@ Private Servers:
 <details>
 <summary><h2> Assets </h2></summary>
 
-  <details style="display: flex; flex-direction: row">
-  <summary><i>AESTHETICS:</i></summary>
-    
-    
-  - [pso-highres-ui](https://github.com/eleriaqueen/pso-highres-ui) – highres ui for Dolphin emulator
-  - [highres-dreamcast-ui](https://github.com/eleriaqueen/pso-highres-dreamcube-ui) – highres Dreamcast ui for Dolphin emulator
+<details>
+  <summary><i> UI: </i></summary>
+
+  - [pso-highres-ui](https://github.com/eleriaqueen/pso-highres-ui) – highres ui for Dolphin emulator et al.
+  - [highres-dreamcast-ui](https://github.com/eleriaqueen/pso-highres-dreamcube-ui) – highres Dreamcast ui for Dolphin emulator et al.
   - [Custom-HUD](https://github.com/izumidaye/psobb-custom-HUD) – PSO:BB custom hud plugin
-  </details><br>  
-	
-
-  <details style="display: flex; flex-direction: row">
-  <summary><h3 style="display: inline"> Notable Sources: </h3></summary>
-  
-    NOTE – If you know of other relevant sources or title screen recreations, 
-    let me know or make a PR, I'd be happy to add them here!
-  
-
-  - [@HelloKitty's PSOBB2 Title Screen](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content)
-    - [demo-video](https://www.youtube.com/watch?v=DB9-mvFJ53Q)
-    - [dev-log video](https://www.youtube.com/watch?v=W8maC6ZdFqA)
-    - /Sound/ - Has many useful sound effects and songs (title screen song included)
-    - /UI/Titlescreen/ - Has the divided up assets of the title screen.  (I used the Orbs from here)
-    - [PSOBB2 Discord had a good full-circle](https://cdn.discordapp.com/attachments/540689032712159281/770541845599223808/PSO.png)  (I used this in creating an SVG)
-  - [GameCube Version](https://www.youtube.com/watch?v=7ORY-IFb3cY)
-  - [Egg+ / anycoloregg](http://anycoloregg.web.fc2.com/PSO/ep3card/3_sozai.html)
-    - [decent res full-circle](http://anycoloregg.web.fc2.com/PSO/ep3card/sozai/msg1130_1.gif)
-    - [decent res inner-circle](http://anycoloregg.web.fc2.com/PSO/ep3card/sozai/msg1130_2.gif)  (I used this in creating an SVG)
-  - [Circle Meaning](https://www.reddit.com/r/PSO/comments/8y4z8i/fan_translation_for_my_recent_pso_logo_project_i/)
-  - [Fringes of Algo](http://www.psalgo.com/boards/phantasy-star-online-fonts-vd244.html)  (I used PSO font from here)
-  - [dreamcast remake](https://cdn.discordapp.com/attachments/539772751796240386/959417156179742730/2022-04-01_12-43-34_psogame_480p.mp4)
-    - notably shows use of a sprite based StarStream
-  - Other Unused Fonts:  (its hard to know whats a duplicate or original source...)
-    - [font2s/pso_test_regular](https://font2s.com/fonts/63345/pso_test_regular.html#.YysVlexKjOR)
-    - [freefontsdownload/free-pso-test-regular-font](https://freefontsdownload.net/free-pso-test-regular-font-125365.htm)  (prob same as prior)
-    - [wfonts/pso-test](https://www.wfonts.com/font/pso-test)  (prob same as prior)
-    - [eleriaqueen/stylised-pso-font](https://www.pioneer2.net/community/threads/i-made-stylised-pso-fonts.13269/)  (links are broken, but I'd like a copy if anyone has them)
-    - [fontstruct/phantasy_star_online](https://fontstruct.com/fontstructions/show/253199/phantasy_star_online)  (includes punctuation)
-    - [fontstruct/phantasy_star_online_cyr_ver_1](https://fontstruct.com/fontstructions/show/253531/phantasy_star_online_cyr_ver_1)  (includes punctuation)
+  - [PSO Title Screen](https://github.com/tcardlab/pso-title-screen) - JS, HTML, CSS
+  - [PSOBB2 UI](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content/UI)
+  <!--https://discord.com/channels/539764674879815682/544043325544595457/577912812479971358-->
 </details>
 
-[model viewer](https://www.phantasmal.world/#/viewer/)
-
-https://github.com/tcardlab/pso-title-screen/
+<br/>  
 	
-https://github.com/eleriaqueen/pso-highres-ui
+<details>
+  <summary><i> FONTS: </i></summary>
+
+  - [Fringes of Algo](http://www.psalgo.com/boards/phantasy-star-online-fonts-vd244.html)  (I used PSO font from here)
+  - [font2s/pso_test_regular](https://font2s.com/fonts/63345/pso_test_regular.html#.YysVlexKjOR)
+    - [freefontsdownload/free-pso-test-regular-font](https://freefontsdownload.net/free-pso-test-regular-font-125365.htm)  (prob same as prior)
+    - [wfonts/pso-test](https://www.wfonts.com/font/pso-test)  (prob same as prior)
+  - [eleriaqueen/stylised-pso-font](https://www.pioneer2.net/community/threads/i-made-stylised-pso-fonts.13269/)  (links are broken, but I'd like a copy if anyone has them)
+  - [eleriaqueen/pso-highres-hud-font](https://github.com/eleriaqueen/pso-highres-hud-font) (For in game use)
+  - [fontstruct/phantasy_star_online](https://fontstruct.com/fontstructions/show/253199/phantasy_star_online)  (includes punctuation)
+  - [fontstruct/phantasy_star_online_cyr_ver_1](https://fontstruct.com/fontstructions/show/253531/phantasy_star_online_cyr_ver_1)  (includes punctuation)
+</details>
+
+<br/>
 	
-https://github.com/eleriaqueen/pso-highres-hud-font
+<details>
+  <summary><i> Model: </i></summary>
+
+  - [Josh Markham (World Art Lead at Bungie) - Phantasy Star Environment](https://joshmarkham.artstation.com/projects/18OE8X) (never made public...)
+  - [PSO Remake: Art - Forest | Trello](https://trello.com/b/bzv18Wy3/art-forest)
+    - Click on cards, Asset files in popup
+    - [Showcase](https://psoremake.wordpress.com/2016/07/24/pso-remake-forest-monster-edition/comment-page-1/#comment-1)
+  - Viewers:
+    - [phantasmal viewer](https://www.phantasmal.world/#/viewer/)
+    - [DashGL Ninja Viewer/Exporter](https://dashgl.gitlab.io/psov2/)
+      - [Code](https://gitlab.com/dashgl/psov2)
+      - [Spec Sheet](https://github.com/tcardlab/awesome-pso/releases/download/Model-Spec/Phantasy_Star_Document.pdf)
+</details>
+
+<br/>
 	
-[GCI Quest files](https://github.com/b0n3zx/PSOquest)
-
-[VMI quest files](https://www.pso-world.com/download.php?cat=Download+Quests)
-
-3D Models:
-- [Online viewer and exporter](https://gitlab.com/dashgl/psov2)
-	- [live site](https://dashgl.gitlab.io/psov2/)
-	- [Spec Sheet](https://github.com/tcardlab/awesome-pso/releases/download/Model-Spec/Phantasy_Star_Document.pdf)
-
-[PSO Remake: Forest Monster Edition – PSO-Remake (wordpress.com)](https://psoremake.wordpress.com/2016/07/24/pso-remake-forest-monster-edition/comment-page-1/#comment-1)
-[Art - Forest | Trello](https://trello.com/b/bzv18Wy3/art-forest)
-assets in cards?
-
-<!--https://discord.com/channels/539764674879815682/544043325544595457/577912812479971358-->
-
-Fonts: 
-
-Music:
-- [PSO PC Music Pack Torrent](https://psopalace.sylverant.net/downloads/PSO_PC_Music_Pack.torrent)
-
-Texture Packs
-- [AshenbubsHD](https://www.nexusmods.com/phantasystaronline/mods/3)
-  - [image samples](https://www.pioneer2.net/community/threads/ashenbubs-hd-textures-for-psobb-are-incredible.23091/) 
-- [Releases · eleriaqueen/pso-highres-dreamcube-ui (github.com)](https://github.com/eleriaqueen/pso-highres-dreamcube-ui)
-- [Another approach at remastering textures using Stable Diffusion | Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/threads/another-approach-at-remastering-textures-using-stable-diffusion.25517/)
-- [Echelon's skins & modifications | Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/threads/echelons-skins-modifications.4357/)
-- [Skins and Mods | Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/forums/skins-and-mods.11/)
-- [Re-Texturing Pioneer II | Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/threads/re-texturing-pioneer-ii-21-36-complete.24359/#post-199909)
-- [Dreamburst HD UI Project by Luthee (a.k.a Eleria) | Pioneer 2 - A Phantasy Star Online Community](https://www.pioneer2.net/community/threads/dreamburst-hd-ui-project-by-luthee-a-k-a-eleria.25543/#post-200752)
-- [eleriaqueen/pso-highres-hud-font: High resolution HUD font for Phantasy Star Online Ep. I&II (& Plus) (github.com)](https://github.com/eleriaqueen/pso-highres-hud-font)
-
-
-[tcardlab/pso-title-screen: PSO title screen recreated with Vue 3 (yes it's laggy, don't use full screen)... (github.com)](https://github.com/tcardlab/pso-title-screen)
-
-[PSO Title Screen (tcardlab.github.io)](https://tcardlab.github.io/pso-title-screen/sigil)
-
-### Shaders et al
-- [Luminati-nerd-stuff/PSO-RayTracing](https://github.com/Luminati-nerd-stuff/PSO-RayTracing)
-
+<details>
+  <summary><i> Quests: </i></summary>
 	
- [Josh Markham - Phantasy Star Environment (artstation.com)](https://joshmarkham.artstation.com/projects/18OE8X)
- never made public...
- by Josh Markham
-World Art Lead at Bungie
+  - [GCI Quest files](https://github.com/b0n3zx/PSOquest)
+  - [VMI quest files](https://www.pso-world.com/download.php?cat=Download+Quests)
+</details>
+
+<br/>
+	
+<details>
+  <summary><i> Music: </i></summary>
+	
+  - [PSO PC Music Pack Torrent](https://psopalace.sylverant.net/downloads/PSO_PC_Music_Pack.torrent)
+  - [@HelloKitty's PSOBB2 Sound](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content/Sound)
+</details>
+	
+<br/>
+	
+<details>
+  <summary><i> Texture Packs: </i></summary>
+	
+  - [Echelon's skins & modifications](https://www.pioneer2.net/community/threads/echelons-skins-modifications.4357/)
+  - [AshenbubsHD](https://www.nexusmods.com/phantasystaronline/mods/3)
+    - [image samples](https://www.pioneer2.net/community/threads/ashenbubs-hd-textures-for-psobb-are-incredible.23091/)
+  - [Re-Texturing Pioneer II](https://www.pioneer2.net/community/threads/re-texturing-pioneer-ii-21-36-complete.24359/)
+	
+  Souces to Searh:
+    - [pioneer2: Skins and Mods](https://www.pioneer2.net/community/forums/skins-and-mods.11/) 
+</details>
+	
+<br/>
+	
+<details>
+  <summary><i> Shaders: </i></summary>
+	
+  - ZabaZu/mcflypg/Pascal Gilcher ReShade
+    - [phantasystaronline.net Announcement](https://www.phantasystaronline.net/forum/index.php?/topic/27191-reshade-for-psobb-optional-screen-space-ray-traced-global-illumination/)
+    - [pioneer2 Announcement](https://www.pioneer2.net/community/threads/reshade-for-psobb-optional-screen-space-ray-traced-global-illumination.16144/)
+  - [Luminati-nerd-stuff/PSO-RayTracing](https://github.com/Luminati-nerd-stuff/PSO-RayTracing)
+</details>
+
+<br/>
+
+<details>
+  <summary><i> Mod Packs: </i></summary>
+	
+  - https://www.phantasystaronline.net/forum/index.php?/topic/36164-sundarks-psobb-vanilla-pack/
+  - https://www.pioneer2.net/community/threads/smokeys-ultimate-psobb-mod-collection.10102/
+</details>
+
+<br/>
+
 </details>
 
 <details>
@@ -588,14 +593,13 @@ World Art Lead at Bungie
 - [PSO will never die: how the nicest fans in gaming keep a 16-year-old MMO alive - PC Gamer](https://www.pcgamer.com/phantasy-star-online-will-never-die-how-the-nicest-fans-in-gaming-keep-a-16-year-old-mmo-alive/)
 - [PSO’s original director from Sonic Team talks Diablo influences, cut features, and Christmas Nights - Polygon](https://www.polygon.com/interviews/2020/8/2/21348946/phantasy-star-online-director-diablo-cut-features-christmas-nights)
 - [PSO devs on the story, the graphics, and the angry fans that used to call Sega - Polygon](https://www.polygon.com/interviews/2020/8/16/21369887/phantasy-star-online-interview-angry-fans)
-- [PSO EpI&II Versus Strategy Guide - Internet Archive](https://archive.org/details/phantasystaronlineepisodeiiiversusstrategyguide/mode/2up)
 - [PSO prototype - Hidden Palace](https://hiddenpalace.org/News/Phantasy_Star_Online_prototype)
 - [PSO - Unseen64](https://www.unseen64.net/2008/04/11/pso-concept-beta/)
 - [PSO commercial - YouTube](https://www.youtube.com/watch?v=rw6hosekixk)
 - [PSO DreamCast- gamefaqs](https://gamefaqs.gamespot.com/dreamcast/198288-phantasy-star-online/faqs)
 - [PSO GameCube - gamefaqs](https://gamefaqs.gamespot.com/gamecube/516243-phantasy-star-online-episode-i-and-ii/faqs)
-	
-- [Book Of Hunters](https://archive.org/details/phantasy-star-onlinethe-book-of-hunters/Phant%203/Phantasy_Star_Online_Book_of_Hunters_000a_outer_cover_w_band_Archive_Scans.png)
+- [PSO EpI&II Versus Strategy Guide - Internet Archive](https://archive.org/details/phantasystaronlineepisodeiiiversusstrategyguide/mode/2up)
+- [Book Of Hunters - Internet Archive](https://archive.org/details/phantasy-star-onlinethe-book-of-hunters/Phant%203/Phantasy_Star_Online_Book_of_Hunters_000a_outer_cover_w_band_Archive_Scans.png)
   - [Alt-Source](https://playpso.net/forums/topic/568-phantasy-star-online-book-of-hunters-scan/)
   - [Sygil Translation](https://www.reddit.com/r/PSO/comments/8y4z8i/fan_translation_for_my_recent_pso_logo_project_i/)
   - [Tekkers Translation](https://www.reddit.com/r/PSO/comments/96so2e/fan_translation_in_this_episode_of_ive_been/)
