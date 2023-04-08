@@ -373,6 +373,8 @@ Private Servers:
 <details>
 <summary><h2> Assets </h2></summary>
 
+<br/>
+	
 <details>
   <summary><i> UI: </i></summary>
 
@@ -380,7 +382,7 @@ Private Servers:
   - [highres-dreamcast-ui](https://github.com/eleriaqueen/pso-highres-dreamcube-ui) – highres Dreamcast ui for Dolphin emulator et al.
   - [Custom-HUD](https://github.com/izumidaye/psobb-custom-HUD) – PSO:BB custom hud plugin
   - [PSO Title Screen](https://github.com/tcardlab/pso-title-screen) - JS, HTML, CSS
-  - [PSOBB2 UI](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content/UI)
+  - [@HelloKitty's PSOBB2 UI](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content/UI)
   <!--https://discord.com/channels/539764674879815682/544043325544595457/577912812479971358-->
 </details>
 
@@ -402,17 +404,22 @@ Private Servers:
 <br/>
 	
 <details>
-  <summary><i> Model: </i></summary>
+  <summary><i> Models: </i></summary>
+
+  <br/>
 
   - [Josh Markham (World Art Lead at Bungie) - Phantasy Star Environment](https://joshmarkham.artstation.com/projects/18OE8X) (never made public...)
   - [PSO Remake: Art - Forest | Trello](https://trello.com/b/bzv18Wy3/art-forest)
     - Click on cards, Asset files in popup
     - [Showcase](https://psoremake.wordpress.com/2016/07/24/pso-remake-forest-monster-edition/comment-page-1/#comment-1)
-  - Viewers:
-    - [phantasmal viewer](https://www.phantasmal.world/#/viewer/)
-    - [DashGL Ninja Viewer/Exporter](https://dashgl.gitlab.io/psov2/)
-      - [Code](https://gitlab.com/dashgl/psov2)
-      - [Spec Sheet](https://github.com/tcardlab/awesome-pso/releases/download/Model-Spec/Phantasy_Star_Document.pdf)
+	
+  <br/>
+
+  Viewers and Exporters:
+  - [phantasmal viewer](https://www.phantasmal.world/#/viewer/)
+  - [DashGL Ninja Viewer/Exporter](https://dashgl.gitlab.io/psov2/)
+    - [Code](https://gitlab.com/dashgl/psov2)
+    - [Spec Sheet](https://github.com/tcardlab/awesome-pso/releases/download/Model-Spec/Phantasy_Star_Document.pdf)
 </details>
 
 <br/>
@@ -444,7 +451,8 @@ Private Servers:
   - [Re-Texturing Pioneer II](https://www.pioneer2.net/community/threads/re-texturing-pioneer-ii-21-36-complete.24359/)
 	
   Souces to Searh:
-    - [pioneer2: Skins and Mods](https://www.pioneer2.net/community/forums/skins-and-mods.11/) 
+
+  - [pioneer2: Skins and Mods](https://www.pioneer2.net/community/forums/skins-and-mods.11/) 
 </details>
 	
 <br/>
@@ -463,8 +471,8 @@ Private Servers:
 <details>
   <summary><i> Mod Packs: </i></summary>
 	
-  - https://www.phantasystaronline.net/forum/index.php?/topic/36164-sundarks-psobb-vanilla-pack/
-  - https://www.pioneer2.net/community/threads/smokeys-ultimate-psobb-mod-collection.10102/
+  - [Sundark's Mod Pack](https://www.phantasystaronline.net/forum/index.php?/topic/36164-sundarks-psobb-vanilla-pack/)
+  - [Smokey's  Mod Pack](https://www.pioneer2.net/community/threads/smokeys-ultimate-psobb-mod-collection.10102/)
 </details>
 
 <br/>
