@@ -290,12 +290,15 @@ Ephinea Guides:
 <details>
   <summary><i>SERVERS, EMULATORS, & DEV-SUITES:</i></summary>
 
-  - [NewServe](https://github.com/fuzziqersoftware/newserv) – PSO server/proxy
-  - DashGL Suite
+  - DashGL Dev Suite
     - [Snippets - Ikaruga](https://gitlab.com/dashgl/ikaruga/-/snippets)
     - [DashGL Model Format](https://gitlab.com/dashgl/format)
     - [DashUnityProject](https://gitlab.com/dashgl/unity)
     - [Asset Lib & Exporter](https://gitlab.com/dashgl/psov2)
+  - Solybum Dev Suite
+    - [Tethealla](https://github.com/Solybum/Tethealla) – PSO Server
+    - [PSO-Tools](https://github.com/Solybum/PSO-Tools) – PSO Utils
+    - [Utilities](https://github.com/Solybum/Utilities) – General Utils
   - Glader Dev Suite
     - [Booma](https://github.com/BoomaNation) : ([Library](https://github.com/BoomaNation/Booma.Library) | [Proxy](https://github.com/HelloKitty/Booma.Proxy) | [Client](https://github.com/HelloKitty/PSOBB2.Client) | [Server](https://github.com/HelloKitty/Booma.Server)) – PSO:BB Emulation Suite
     - PSO:BB2 : ([Library](https://github.com/kanon411/PSOBB2.Library) | [Content](https://github.com/HelloKitty/PSOBB2.Content) | [Client](https://github.com/HelloKitty/PSOBB2.Client) | [Server](https://github.com/gladmmo)) – PSO:BB Remake in Unity
@@ -303,7 +306,13 @@ Ephinea Guides:
     - [phantasmal-world](https://github.com/DaanVandenBosch/phantasmal-world) – PSO Dev-Suite (web app, utils, and WIP  server)
   - PSO Rust
     - [idolapsoserv](https://github.com/BygoneWorlds/idolapsoserv) – PSO Server
-    - [Telepipe](https://github.com/BygoneWorlds/telepipe) – PSO on Dolphin Emulator  
+    - [Telepipe](https://github.com/BygoneWorlds/telepipe) – PSO on Dolphin Emulator 
+	
+  <br/>
+	
+Private Servers:
+
+- [NewServe](https://github.com/fuzziqersoftware/newserv) – PSO server/proxy
 
 </details>
   
@@ -594,6 +603,7 @@ World Art Lead at Bungie
 - [Stable Diffusion for Remastering](https://www.pioneer2.net/community/threads/another-approach-at-remastering-textures-using-stable-diffusion.25517/)
 </details>
 
+<br/>
 
 <!--
 ![sigil](https://user-images.githubusercontent.com/35203441/230693972-9527d998-dd0a-44ec-8b00-920040db3da4.svg)
