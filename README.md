@@ -584,5 +584,24 @@ World Art Lead at Bungie
 -->
 
 <p align="center">
-  What could I aadd down here? old loader icon? section ID symbols?
+  <!--What could I aadd down here? old loader icon? section ID symbols?-->
+  <img src="https://wiki.pioneer2.net/images/thumb/f/ff/Viridia_icon.png/64px-Viridia_icon.png" height="32" margin="10px" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/9/9c/Greenill_icon.png/64px-Greenill_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/9/9e/Skyly_icon.png/64px-Skyly_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/0/0e/Bluefull_icon.png/64px-Bluefull_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/4/49/Purplenum_icon.png/64px-Purplenum_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/f/f9/Pinkal_icon.png/64px-Pinkal_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/4/4a/Redria_icon.png/64px-Redria_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/9/96/Oran_icon.png/64px-Oran_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/8/87/Yellowboze_icon.png/64px-Yellowboze_icon.png" height="32" />
+	&nbsp;&nbsp;
+  <img src="https://wiki.pioneer2.net/images/thumb/c/c6/Whitill_icon.png/64px-Whitill_icon.png" height="32" />
 </p>
