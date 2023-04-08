@@ -36,6 +36,11 @@ May need a [GameCube Emulator](https://dolphin-emu.org/)
 - [ISO - Internet Archive](https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/#:~:text=Phantasy%20Star%20Online%20Episode%20I%20%26%20II)
 - [Schtserv Network - PSO GC Connection guide](http://www.schtserv.com/forums/app.php/pso-gc-connection-guide)
 
+Dolphin Status:
+ - [PSO I & II](https://wiki.dolphin-emu.org/index.php?title=Phantasy_Star_Online_Episode_I_%26_II)
+   - [Forum Support Thread](https://forums.dolphin-emu.org/Thread-gc-phantasy-star-online-episode-i-ii?highlight=Phantasy+Star+Online)
+ - [PSO I & II Plus](https://wiki.dolphin-emu.org/index.php?title=Phantasy_Star_Online_Episode_I_%26_II_Plus)
+   - [Forum Support Thread](https://forums.dolphin-emu.org/Thread-gc-phantasy-star-online-episode-i-ii-plus?highlight=Phantasy+Star+Online)
 </details>
 
 <details>
