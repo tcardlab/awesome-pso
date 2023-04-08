@@ -632,7 +632,16 @@ Private Servers:
 - [Stable Diffusion for Remastering](https://www.pioneer2.net/community/threads/another-approach-at-remastering-textures-using-stable-diffusion.25517/)
 </details>
 
-<br/>
+<details open>
+<summary><h2> Notable Devs </h2></summary>
+
+<p align="center">
+  Todo: Add Linkd DEV PFP's 
+</p>
+
+</details>
+
+<br/> <br/>
 
 <!--
 ![sigil](https://user-images.githubusercontent.com/35203441/230693972-9527d998-dd0a-44ec-8b00-920040db3da4.svg)
