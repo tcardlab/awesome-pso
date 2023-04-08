@@ -594,6 +594,14 @@ World Art Lead at Bungie
 - [PSO commercial - YouTube](https://www.youtube.com/watch?v=rw6hosekixk)
 - [PSO DreamCast- gamefaqs](https://gamefaqs.gamespot.com/dreamcast/198288-phantasy-star-online/faqs)
 - [PSO GameCube - gamefaqs](https://gamefaqs.gamespot.com/gamecube/516243-phantasy-star-online-episode-i-and-ii/faqs)
+	
+- [Book Of Hunters](https://archive.org/details/phantasy-star-onlinethe-book-of-hunters/Phant%203/Phantasy_Star_Online_Book_of_Hunters_000a_outer_cover_w_band_Archive_Scans.png)
+  - [Alt-Source](https://playpso.net/forums/topic/568-phantasy-star-online-book-of-hunters-scan/)
+  - [Sygil Translation](https://www.reddit.com/r/PSO/comments/8y4z8i/fan_translation_for_my_recent_pso_logo_project_i/)
+  - [Tekkers Translation](https://www.reddit.com/r/PSO/comments/96so2e/fan_translation_in_this_episode_of_ive_been/)
+  - [Newman Translation](https://www.reddit.com/r/PSO/comments/8wzjgu/fan_translation_i_was_looking_through_the_book_of/)
+  - [Wolf Translation](https://www.reddit.com/r/PSO/comments/8vlgus/over_a_decade_later_and_i_seriously_never_noticed/)
+  - [Many More Translations](https://yellowboze.tumblr.com/)
 </details>
 
 <details>
