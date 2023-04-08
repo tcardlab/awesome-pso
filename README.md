@@ -29,7 +29,7 @@ Collection of PSO ep1&2 related assets, projects, and servers.
 </details>
 	
 <details>
-<summary><h4> Game Cube: </h4></summary>
+<summary><h4> GameCube: </h4></summary>
 
 May need a [GameCube Emulator](https://dolphin-emu.org/)
 	
@@ -44,7 +44,7 @@ Dolphin Status:
 </details>
 
 <details>
-<summary><h4> Dreamcast: </h4></summary>
+<summary><h4> DreamCast: </h4></summary>
 
 May need a [DreamCast Emulator](https://redream.io/)
 
