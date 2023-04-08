@@ -291,11 +291,83 @@ Ephinea Guides:
 - PSO Kotlin
   - https://github.com/DaanVandenBosch/phantasmal-world
   - [model viewer](https://www.phantasmal.world/#/viewer/)
+	
+	
+
+
+  <details style="display: flex; flex-direction: row">
+  <summary><i>SERVERS, EMULATORS, ET AL:</i></summary>
+  
+    
+  - [NewServe](https://github.com/fuzziqersoftware/newserv) – PSO server/proxy
+  - Booma : ([proxy](https://github.com/HelloKitty/Booma.Proxy) | [client](https://github.com/HelloKitty/PSOBB2.Client) | [server](https://github.com/HelloKitty/Booma.Server)) – PSO:bb emulation suite
+  - PSO:BB2 : ([Library](https://github.com/kanon411/PSOBB2.Library) | [content](HelloKitty/PSOBB2.Content) | [Client](https://github.com/HelloKitty/PSOBB2.Client)) – PSO:bb remake in unity
+  - [Telepipe](https://github.com/BygoneWorlds/telepipe) – PSO on Dolphin Emulator 
+  - [Phantasmal](https://github.com/DaanVandenBosch/phantasmal-world) – web app, utils, and WIP  server
+  </details><br>
+  
+  <details style="display: flex; flex-direction: row">
+  <summary><i>CALC, STAT, & Utils:</i></summary>
+  
+  - [PSOCalc](https://github.com/gar-mil/psocalc) – PSO:bb section ID calc [ js ]
+  - [ID_generator](https://github.com/DiggsAsura/PSO_Section_ID_generator) – PSO:gc section ID calc [ rust ]
+  - [secid-calc](https://github.com/TimBeard/secid-calculator) – PSO section ID calc [ Vue.js ]
+  - [MAG database](https://github.com/SethClydesdale/psobb-mag-database) – PSO:bb plugin
+  - [MAG Calc](https://github.com/Jimaine/PsoMagCalculator) – PSO mag calculator
+  - [MAG AI](https://github.com/Lemonilla/MagAi) – Generate Mag Feeding plan
+  - [MAG Feeder](https://github.com/ariajanke/mag-feeder) – Mag Feeder Tool for PSOBB
+  – [drop chart](https://github.com/SethClydesdale/psobb-drop-charts) – PSO:bb plugin for drop chart
+  - [Map Simulator](https://github.com/aldelaro5/PSOMapRNGSimulation) – PSO:gc Map RGN simulation
+  </details><br>
+  
 
 </details>
 
 <details>
 <summary><h2> Assets </h2></summary>
+	
+	
+  <details style="display: flex; flex-direction: row">
+  <summary><i>AESTHETICS:</i></summary>
+    
+    
+  - [pso-highres-ui](https://github.com/eleriaqueen/pso-highres-ui) – highres ui for Dolphin emulator
+  - [highres-dreamcast-ui](https://github.com/eleriaqueen/pso-highres-dreamcube-ui) – highres Dreamcast ui for Dolphin emulator
+  - [Custom-HUD](https://github.com/izumidaye/psobb-custom-HUD) – PSO:bb custom hud plugin
+  </details><br>  
+	
+
+  <details style="display: flex; flex-direction: row">
+  <summary><h3 style="display: inline"> Notable Sources: </h3></summary>
+  
+    NOTE – If you know of other relevant sources or title screen recreations, 
+    let me know or make a PR, I'd be happy to add them here!
+  
+
+  - [@HelloKitty's PSOBB2 Title Screen](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content)
+    - [demo-video](https://www.youtube.com/watch?v=DB9-mvFJ53Q)
+    - [dev-log video](https://www.youtube.com/watch?v=W8maC6ZdFqA)
+    - /Sound/ - Has many useful sound effects and songs (title screen song included)
+    - /UI/Titlescreen/ - Has the divided up assets of the title screen.  (I used the Orbs from here)
+    - [PSOBB2 Discord had a good full-circle](https://cdn.discordapp.com/attachments/540689032712159281/770541845599223808/PSO.png)  (I used this in creating an SVG)
+  - [GameCube Version](https://www.youtube.com/watch?v=7ORY-IFb3cY)
+  - [Egg+ / anycoloregg](http://anycoloregg.web.fc2.com/PSO/ep3card/3_sozai.html)
+    - [decent res full-circle](http://anycoloregg.web.fc2.com/PSO/ep3card/sozai/msg1130_1.gif)
+    - [decent res inner-circle](http://anycoloregg.web.fc2.com/PSO/ep3card/sozai/msg1130_2.gif)  (I used this in creating an SVG)
+  - [Circle Meaning](https://www.reddit.com/r/PSO/comments/8y4z8i/fan_translation_for_my_recent_pso_logo_project_i/)
+  - [Fringes of Algo](http://www.psalgo.com/boards/phantasy-star-online-fonts-vd244.html)  (I used PSO font from here)
+  - [dreamcast remake](https://cdn.discordapp.com/attachments/539772751796240386/959417156179742730/2022-04-01_12-43-34_psogame_480p.mp4)
+    - notably shows use of a sprite based StarStream
+  - Other Unused Fonts:  (its hard to know whats a duplicate or original source...)
+    - [font2s/pso_test_regular](https://font2s.com/fonts/63345/pso_test_regular.html#.YysVlexKjOR)
+    - [freefontsdownload/free-pso-test-regular-font](https://freefontsdownload.net/free-pso-test-regular-font-125365.htm)  (prob same as prior)
+    - [wfonts/pso-test](https://www.wfonts.com/font/pso-test)  (prob same as prior)
+    - [eleriaqueen/stylised-pso-font](https://www.pioneer2.net/community/threads/i-made-stylised-pso-fonts.13269/)  (links are broken, but I'd like a copy if anyone has them)
+    - [fontstruct/phantasy_star_online](https://fontstruct.com/fontstructions/show/253199/phantasy_star_online)  (includes punctuation)
+    - [fontstruct/phantasy_star_online_cyr_ver_1](https://fontstruct.com/fontstructions/show/253531/phantasy_star_online_cyr_ver_1)  (includes punctuation)
+</details>
+
+https://github.com/tcardlab/pso-title-screen/
 	
 [GCI Quest files](https://github.com/b0n3zx/PSOquest)
 
@@ -485,3 +557,6 @@ World Art Lead at Bungie
 <img src="https://user-images.githubusercontent.com/35203441/230694323-1a1703ea-65f9-4ea1-931a-8ab8497170fe.svg" height="300" />
 -->
 
+<p align="center">
+  What could I aadd down here? old loader icon? section ID symbols?
+</p>
