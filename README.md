@@ -7,7 +7,12 @@ Collection of PSO ep1&2 related assets, projects, and servers.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/35203441/230694323-1a1703ea-65f9-4ea1-931a-8ab8497170fe.svg" height="300" />
+<p align="center">
+  <a href="https://tcardlab.github.io/pso-title-screen/sigil">
+    <img src="https://user-images.githubusercontent.com/35203441/230694323-1a1703ea-65f9-4ea1-931a-8ab8497170fe.svg" height="300" />
+  </a>
+</p>
+
 
 <details open>
 <summary><h2> Games and Servers: </h2></summary>
