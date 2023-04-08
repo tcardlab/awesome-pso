@@ -27,7 +27,9 @@ Collection of PSO ep1&2 related assets, projects, and servers.
 - [Destiny](https://playpso.net/)
 
 </details>
-	
+
+<br/>
+
 <details>
 <summary><i> GAMECUBE: </i></summary>
 
@@ -43,6 +45,8 @@ Dolphin Status:
    - [Forum Support Thread](https://forums.dolphin-emu.org/Thread-gc-phantasy-star-online-episode-i-ii-plus?highlight=Phantasy+Star+Online)
 </details>
 
+<br/>
+
 <details>
 <summary><i> DREAMCAST: </i></summary>
 
@@ -54,6 +58,8 @@ May need a [DreamCast Emulator](https://redream.io/)
 - [schtserv](http://www.schtserv.com/forums/app.php/downloads#:~:text=PSO%20Dreamcast%20V1%20and%20V2)
 
 </details>
+
+<br/>
 
 <details>
 <summary><i> MOBILE: </i></summary>
@@ -93,6 +99,8 @@ RetroArch can run on Android and supports both emulators mentioned above:
 
 </details>
 	
+<br/>
+
 <details>
 <summary><i> STEAMDECK: </i></summary>
 
