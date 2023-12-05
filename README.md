@@ -443,10 +443,12 @@ Private Servers:
 <br/>
 	
 <details>
-  <summary><i> MUSIC: </i></summary>
+  <summary><i> MUSIC & SFX: </i></summary>
 	
   - [PSO PC Music Pack Torrent](https://psopalace.sylverant.net/downloads/PSO_PC_Music_Pack.torrent)
   - [@HelloKitty's PSOBB2 Sound](https://github.com/HelloKitty/Booma.PSOBB.Client/tree/master/Assets/Content/Sound)
+  - [sound effects](https://www.sounds-resource.com/pc_computer/pso)
+    - some are low quality, let me know if there is a better source 
 </details>
 	
 <br/>
